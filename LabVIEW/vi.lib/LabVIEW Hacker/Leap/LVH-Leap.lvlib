@@ -26,6 +26,9 @@
 		<Item Name="Leap Swipe Gesture Direction.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Swipe Gesture Direction.vi"/>
 		<Item Name="Leap Point Position and Velocity.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Point Position and Velocity.vi"/>
 	</Item>
+	<Item Name="Project" Type="Folder">
+		<Item Name="Check Dependencies.vi" Type="VI" URL="../../../../project/LabVIEW Hacker/Leap/Check Dependencies.vi"/>
+	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="Type Defs" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
@@ -50,6 +53,9 @@
 			<Item Name="Leap.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Leap/Private/Libs/Leap.dll"/>
 			<Item Name="LeapCSharp.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Leap/Private/Libs/LeapCSharp.dll"/>
 			<Item Name="LeapCSharp.NET3.5.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Leap/Private/Libs/LeapCSharp.NET3.5.dll"/>
+		</Item>
+		<Item Name="Installer" Type="Folder">
+			<Item Name="Check Leap Driver.vi" Type="VI" URL="../Private/Installer/Check Leap Driver.vi"/>
 		</Item>
 		<Item Name="SaveGestureCommon.vi" Type="VI" URL="../Private/SaveGestureCommon.vi"/>
 		<Item Name="SaveGestures.vi" Type="VI" URL="../Private/SaveGestures.vi"/>
