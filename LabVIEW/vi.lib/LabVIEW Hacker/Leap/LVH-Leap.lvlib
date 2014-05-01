@@ -18,14 +18,13 @@
 		<Item Name="Tutorials.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/Leap/Tutorials.vi"/>
 	</Item>
 	<Item Name="Examples" Type="Folder">
-		<Item Name="Simple Controller.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Simple Controller.vi"/>
 		<Item Name="Leap Circle Gesture Progress.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Circle Gesture Progress.vi"/>
 		<Item Name="Leap Screen Tap Gesture.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Screen Tap Gesture.vi"/>
 		<Item Name="Leap Key Tap Gesture.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Key Tap Gesture.vi"/>
 		<Item Name="Leap Swipe Gesture.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Swipe Gesture.vi"/>
 		<Item Name="Leap Hand Position and Velocity.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Hand Position and Velocity.vi"/>
-		<Item Name="Leap Point Position and Velocity.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Point Position and Velocity.vi"/>
 		<Item Name="Leap Swipe Gesture Direction.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Swipe Gesture Direction.vi"/>
+		<Item Name="Leap Point Position and Velocity.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Point Position and Velocity.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="Type Defs" Type="Folder">
@@ -99,13 +98,13 @@
 				<Item Name="Instance VIs" Type="Folder">
 					<Item Name="Read N Swipes.vi" Type="VI" URL="../Public/Gestures/Swipe/Instance VIs/Read N Swipes.vi"/>
 					<Item Name="Read 1 Swipe.vi" Type="VI" URL="../Public/Gestures/Swipe/Instance VIs/Read 1 Swipe.vi"/>
-					<Item Name="Read 1 Swipe X Z Vector.vi" Type="VI" URL="../Public/Gestures/Swipe/Instance VIs/Read 1 Swipe X Z Vector.vi"/>
-					<Item Name="Read N Swipe X Z Vectors.vi" Type="VI" URL="../Public/Gestures/Swipe/Instance VIs/Read N Swipe X Z Vectors.vi"/>
+					<Item Name="Read 1 Swipe Vector.vi" Type="VI" URL="../Public/Gestures/Swipe/Instance VIs/Read 1 Swipe Vector.vi"/>
+					<Item Name="Read N Swipe Vectors.vi" Type="VI" URL="../Public/Gestures/Swipe/Instance VIs/Read N Swipe Vectors.vi"/>
 					<Item Name="Read N Swipe Directions.vi" Type="VI" URL="../Public/Gestures/Swipe/Instance VIs/Read N Swipe Directions.vi"/>
 					<Item Name="Read 1 Swipe Direction.vi" Type="VI" URL="../Public/Gestures/Swipe/Instance VIs/Read 1 Swipe Direction.vi"/>
 				</Item>
 				<Item Name="Read Swipe.vi" Type="VI" URL="../Public/Gestures/Swipe/Read Swipe.vi"/>
-				<Item Name="Read Swipe XZ Vector.vi" Type="VI" URL="../Public/Gestures/Swipe/Read Swipe XZ Vector.vi"/>
+				<Item Name="Read Swipe Vector.vi" Type="VI" URL="../Public/Gestures/Swipe/Read Swipe Vector.vi"/>
 				<Item Name="Read Swipe Direction.vi" Type="VI" URL="../Public/Gestures/Swipe/Read Swipe Direction.vi"/>
 			</Item>
 		</Item>
