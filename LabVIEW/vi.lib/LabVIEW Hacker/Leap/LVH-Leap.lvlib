@@ -26,9 +26,7 @@
 		<Item Name="Leap Swipe Gesture Direction.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Swipe Gesture Direction.vi"/>
 		<Item Name="Leap Point Position and Velocity.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Leap/Leap Point Position and Velocity.vi"/>
 	</Item>
-	<Item Name="Project" Type="Folder">
-		<Item Name="Check Dependencies.vi" Type="VI" URL="../../../../project/LabVIEW Hacker/Leap/Check Dependencies.vi"/>
-	</Item>
+	<Item Name="Project" Type="Folder"/>
 	<Item Name="Private" Type="Folder">
 		<Item Name="Type Defs" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
