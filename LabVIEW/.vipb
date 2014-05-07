@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.5" Created_Date="2013-07-29 09:17:35" Modified_Date="2014-05-06 12:53:15" Creator="Milan Raj" Comments="" ID="fbbfb2a101f05901a0ff7e8542a0ff16">
+<VI_Package_Builder_Settings Version="0.5" Created_Date="2013-07-29 09:17:35" Modified_Date="2014-05-07 10:30:40" Creator="Milan Raj" Comments="" ID="20c5a69cc66c0566597b41880dd8a584">
   <Library_General_Settings>
     <Package_File_Name>lvh_leap</Package_File_Name>
-    <Library_Version>1.0.0.49</Library_Version>
+    <Library_Version>1.0.0.52</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\LVH-Builds\LVH-Leap</Library_Output_Folder>
@@ -16,7 +16,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>lvh_toolbox &gt;=1.0.0.25</Additional_External_Dependencies>
+      <Additional_External_Dependencies>lvh_toolbox &gt;=1.1.0.0</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
