@@ -48,9 +48,9 @@
 			<Item Name="Swipe Direction.ctl" Type="VI" URL="../Private/Type Defs/Swipe Direction.ctl"/>
 		</Item>
 		<Item Name="Libs" Type="Folder">
-			<Item Name="Leap.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Leap/Private/Libs/Leap.dll"/>
-			<Item Name="LeapCSharp.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Leap/Private/Libs/LeapCSharp.dll"/>
-			<Item Name="LeapCSharp.NET3.5.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Leap/Private/Libs/LeapCSharp.NET3.5.dll"/>
+			<Item Name="Leap.dll" Type="Document" URL="../Private/Libs/Leap.dll"/>
+			<Item Name="LeapCSharp.dll" Type="Document" URL="../Private/Libs/LeapCSharp.dll"/>
+			<Item Name="LeapCSharp.NET3.5.dll" Type="Document" URL="../Private/Libs/LeapCSharp.NET3.5.dll"/>
 		</Item>
 		<Item Name="Installer" Type="Folder">
 			<Item Name="Check Leap Driver.vi" Type="VI" URL="../Private/Installer/Check Leap Driver.vi"/>
